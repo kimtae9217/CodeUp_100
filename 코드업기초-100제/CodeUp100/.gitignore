@@ -16,3 +16,7 @@
 
  # ignore all .pdf files in the doc/ directory
  doc/**/*.pdf
+
+ .vscode
+settings.json
+.vscode/settings.json
